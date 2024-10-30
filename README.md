@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, seja bem-vindo ao meu GitHub👋
 
-<!--
-**GustavoAl-S/GustavoAL-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gustavo.
 
-Here are some ideas to get you started:
+💻 Estudante de Engenharia de Software - UFR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,mysql,spring" />
+  </a>
+</p>
+
+Estou postando projetos e me especializando nas seguintes tecnologias:
+- JAVA
+- MySql
+- Spring
+
