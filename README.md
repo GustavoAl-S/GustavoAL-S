@@ -6,12 +6,12 @@ Meu nome é Gustavo.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,mysql,spring" />
+    <img src="https://skillicons.dev/icons?i=git,java,mysql" />
   </a>
 </p>
 
 Estou postando projetos e me especializando nas seguintes tecnologias:
 - JAVA
+- JAVA Orientado a Objetos
 - MySql
-- Spring
 
