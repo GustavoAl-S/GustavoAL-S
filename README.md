@@ -2,7 +2,10 @@
 
 Meu nome é Gustavo.
 
-💻 Estudante de Engenharia de Software - UFR
+💻 Estudante de Engenharia de Software - UFR 
+
+🚀 Aluno do Alura ONE Oracle - Especialização em Back-End Java
+
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,5 +16,5 @@ Meu nome é Gustavo.
 Estou postando projetos e me especializando nas seguintes tecnologias:
 - JAVA
 - JAVA Orientado a Objetos
-- MySql
+- MySQL
 
