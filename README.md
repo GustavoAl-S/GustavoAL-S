@@ -4,7 +4,7 @@ Meu nome é Gustavo.
 
 💻 Estudante de Engenharia de Software - UFR 
 
-🚀 Aluno do Alura ONE Oracle - Especialização em Back-End Java
+🚀 Aluno do programa Alura ONE Oracle - Especialização em Back-End Java
 
 
 <p align="center">
