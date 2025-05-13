@@ -6,14 +6,12 @@ Meu nome é Gustavo.
 
 🚀 Aluno do programa Alura ONE Oracle - Especialização em Back-End Java
 
+<br></br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java" />
-  </a>
-</p>
+## 🖥️ Linguagens e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=java,git,github )](https://skillicons.dev)
 
 Estou postando projetos e me especializando nas seguintes tecnologias:
 - JAVA
 - JAVA Orientado a Objetos
-
+- Framework Spring
