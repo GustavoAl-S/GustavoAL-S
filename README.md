@@ -1,7 +1,5 @@
 ## Olá, seja bem-vindo ao meu GitHub👋
 
-![Image](https://github.com/user-attachments/assets/672ecf4e-765a-4172-829d-14e13e142f84)
-
   - 💻 Estudante de Engenharia de Software
 
   - 🚀 Aluno do programa Alura ONE Oracle - Especialização em Back-End Java
