@@ -4,7 +4,6 @@
 
   - 🚀 Aluno do programa Alura ONE Oracle - Especialização em Back-End Java
 
-<br></br>
 ## 🖥️ Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,git,github )](https://skillicons.dev)
 
