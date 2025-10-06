@@ -2,8 +2,6 @@
 
   - 💻 Estudante de Engenharia de Software
 
-  - 🚀 Aluno do programa Alura ONE Oracle - Especialização em Back-End Java
-
 ## 🖥️ Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,git,github,postman,spring )](https://skillicons.dev)
 
