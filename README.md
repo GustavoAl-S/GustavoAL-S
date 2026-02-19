@@ -7,7 +7,7 @@
 
 - **Linguagem:** Java
 - **Framework:** Spring
-- **Ferramentas:** Postman, IntelliJ IDEA, VS Code
+- **Ferramentas:** Postman, IntelliJ IDEA
 
 ## Redes
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-silvaes)
