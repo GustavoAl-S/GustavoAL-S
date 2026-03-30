@@ -3,7 +3,7 @@
 Sou Estudante de Engenharia de Software
 
 ## 🖥️ Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,git,github,postman,spring )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,github,postman)](https://skillicons.dev)
 
 - **Linguagem:** Java
 - **Framework:** Spring
