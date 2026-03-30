@@ -1,6 +1,6 @@
-## Olá, me chamo Gustavo 👋
+## Olá, me chamo Gustavo
 
-  - 💻 Estudante de Engenharia de Software
+Sou Estudante de Engenharia de Software
 
 ## 🖥️ Linguagens e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=java,git,github,postman,spring )](https://skillicons.dev)
