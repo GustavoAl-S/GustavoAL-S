@@ -6,7 +6,6 @@ Sou Estudante de Engenharia de Software
 [![My Skills](https://skillicons.dev/icons?i=java,git,github,postman)](https://skillicons.dev)
 
 - **Linguagem:** Java
-- **Framework:** Spring
 - **Ferramentas:** Postman, IntelliJ IDEA
 
 ## Redes
