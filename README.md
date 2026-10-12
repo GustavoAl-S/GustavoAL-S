@@ -1,15 +1,14 @@
 # Olá, eu sou o Gustavo Alves da Silva👋
 
-### Estudante de Engenharia de Software | Aspirante a Analista de Cibersegurança & AppSec
+### Estudante de Engenharia de Software 
 
 Atualmente iniciando minha carreira para a área de Tecnologia da Informação, unindo uma forte bagagem resolução de problemas e trabalho em equipe com o estudo intensivo de segurança digital. 
 
-Estou consolidando minha formação com a **Certificação Profissional de Cibersegurança da Google** e através de laboratórios práticos na plataforma **LetsDefend**. Busco oportunidades de Estágio ou posições Júnior na área de Defesa Cibernética.
-
+Estou consolidando minha formação com a **Certificação Profissional de Cibersegurança da Google** e através de laboratórios práticos na plataforma **LetsDefend**.
 ---
 
 ## 🖥️ Linguagens e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,git,github,postman,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,git,github,mysql,linux)](https://skillicons.dev)
 
 ### 🛠️ Minhas Habilidades Técnicas
 
