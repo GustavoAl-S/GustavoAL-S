@@ -5,6 +5,7 @@
 Atualmente iniciando minha carreira para a área de Tecnologia da Informação, unindo uma forte bagagem resolução de problemas e trabalho em equipe com o estudo intensivo de segurança digital. 
 
 Estou consolidando minha formação com a **Certificação Profissional de Cibersegurança da Google** e através de laboratórios práticos na plataforma **LetsDefend**.
+
 ---
 
 ## 🖥️ Linguagens e Ferramentas
